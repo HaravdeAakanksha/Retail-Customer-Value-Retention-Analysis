@@ -105,7 +105,7 @@ Customers were scored from 1 to 5 and grouped into:
 
 ### 4. Customer Distribution
 
-![Customer Distribution](images/customer_distribution.png)
+![Customer Distribution](images/Customer_Distribution_by_RFM_Segment.png)
 
 ### 5. Top 10 Customers by Revenue
 
